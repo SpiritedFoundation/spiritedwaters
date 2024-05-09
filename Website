@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Helping Youth Impacted By Domestic Violence</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #005a8d;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        nav {
+            background-color: #ff5733;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+            font-size: 1.2em;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        .daily-activities {
+            background-color: #fff;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Helping Youth Impacted By Domestic Violence through Education, Recreation and Preservation</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#activities">Daily Activities</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome to my webpage! I am passionate about helping youth impacted by domestic violence by providing education, recreation, and preservation opportunities.</p>
+    </section>
+
+    <section id="activities">
+        <h2>Daily Activities</h2>
+        <div class="daily-activities">
+            <!-- Add live tracking of daily activities here -->
+            <p>Today's activities:</p>
+            <ul>
+                <li>Activity 1</li>
+                <li>Activity 2</li>
+                <li>Activity 3</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>If you have any questions or would like to get involved, feel free to reach out to me:</p>
+        <p>Email: your@email.com</p>
+        <p>Phone: 123-456-7890</p>
+    </section>
+</body>
+</html>
